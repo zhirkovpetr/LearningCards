@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/learningCards/static/css/main.e6a39f2f.chunk.css",
+    "main.js": "/learningCards/static/js/main.0f088431.chunk.js",
+    "main.js.map": "/learningCards/static/js/main.0f088431.chunk.js.map",
+    "runtime-main.js": "/learningCards/static/js/runtime-main.b4136bd4.js",
+    "runtime-main.js.map": "/learningCards/static/js/runtime-main.b4136bd4.js.map",
+    "static/js/2.68ec0273.chunk.js": "/learningCards/static/js/2.68ec0273.chunk.js",
+    "static/js/2.68ec0273.chunk.js.map": "/learningCards/static/js/2.68ec0273.chunk.js.map",
+    "static/js/3.8deda63d.chunk.js": "/learningCards/static/js/3.8deda63d.chunk.js",
+    "static/js/3.8deda63d.chunk.js.map": "/learningCards/static/js/3.8deda63d.chunk.js.map",
+    "index.html": "/learningCards/index.html",
+    "static/css/main.e6a39f2f.chunk.css.map": "/learningCards/static/css/main.e6a39f2f.chunk.css.map",
+    "static/js/2.68ec0273.chunk.js.LICENSE.txt": "/learningCards/static/js/2.68ec0273.chunk.js.LICENSE.txt",
+    "static/media/checkEmail.bc3a4042.svg": "/learningCards/static/media/checkEmail.bc3a4042.svg",
+    "static/media/loadingBtn.8c4b4840.svg": "/learningCards/static/media/loadingBtn.8c4b4840.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4136bd4.js",
+    "static/js/2.68ec0273.chunk.js",
+    "static/css/main.e6a39f2f.chunk.css",
+    "static/js/main.0f088431.chunk.js"
+  ]
+}
